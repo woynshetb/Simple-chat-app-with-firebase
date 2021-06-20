@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911702300497",
+    "project_id": "yonini-55e2b",
+    "storage_bucket": "yonini-55e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911702300497:android:0369bc2faf3e71ee22a570",
+        "android_client_info": {
+          "package_name": "com.example.yoninichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911702300497-f79sk12ms7tf6902qmgels4f0r0c801q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKrdKEyzIQs16JyjUvjOh_1qZX8woiTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911702300497-f79sk12ms7tf6902qmgels4f0r0c801q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
